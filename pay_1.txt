@@ -1,2 +1,6 @@
 Pay text file for testing branches
 switch to another branch
+from amazon_pay
+to main branch
+copy file pay_1
+
